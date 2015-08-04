@@ -1,5 +1,5 @@
 # template for "Stopwatch: The Game"
-# http://www.codeskulptor.org/#user40_Z8FSG4aXzuHTj19.py
+# http://www.codeskulptor.org/#user40_uaTk86e9Vx2Pf7A.py
 
 import simplegui
 import time
@@ -13,6 +13,7 @@ c = 0
 d = 0
 stops = 0
 successes = 0
+
 print "Simple timer reflex game", '\n', "The object of the game is to", '\n', \
 "press the [STOP] button on a whole second", '\n', "Score is represented as X/Y", '\n', \
 "where X = successful stops and Y = total stops"
